@@ -5,3 +5,4 @@ const stdin = (process.platform === 'linux'
 ).split(' ');
 
 console.log(parseInt(stdin[0], 10) + parseInt(stdin[1], 10));
+
